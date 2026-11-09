@@ -1,0 +1,6 @@
+{
+  "configVersion": 1,
+  "restaurants": [
+    { "name": "Ozzy Bites", "baseUrl": "https://pos.ozzybites.pk" }
+  ]
+}
