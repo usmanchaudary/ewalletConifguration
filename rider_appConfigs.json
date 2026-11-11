@@ -2,5 +2,7 @@
   "configVersion": 1,
   "restaurants": [
     { "name": "Ozzy Bites", "baseUrl": "https://pos.ozzybites.pk" }
-  ]
+  ],
+  "latestVersionCode" : 5
+  "apkUrl": "https://drive.google.com/file/d/1njK6fJ31iUYycZnr5i4TNsi1ltfyPQ-R/view?usp=sharing"
 }
